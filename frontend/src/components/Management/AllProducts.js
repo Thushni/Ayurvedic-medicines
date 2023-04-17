@@ -104,8 +104,8 @@ return (
                <h5 class="p-3 mb-2 bg-light text-dark">* ProductCode: {product.pCode}</h5>
                 <h5 className="p-3 mb-2 bg-light text-dark">* UPS code:   {product.ucode}</h5>
                 <h5 className="p-3 mb-2 bg-light text-dark">* Description:   {product.pDescription}</h5>
-                <h5 className="p-3 mb-2 bg-light text-dark">* First Date:   {product.fdate}</h5>
-                <h5 className="p-3 mb-2 bg-light text-dark">* First Date:   {product.ldate}</h5>  
+                <h5 className="p-3 mb-2 bg-light text-dark">* Best By:   {product.fdate}</h5>
+                <h5 className="p-3 mb-2 bg-light text-dark">*Date First Available:   {product.ldate}</h5>  
             
                 <h5 className="p-3 mb-2 bg-primary text-white">* product price:   {product.price}</h5>                    
                 <div className="btn-bar">
