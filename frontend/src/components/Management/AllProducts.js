@@ -107,7 +107,7 @@ return (
                 <h5 className="p-3 mb-2 bg-light text-dark">* Best By:   {product.fdate}</h5>
                 <h5 className="p-3 mb-2 bg-light text-dark">*Date First Available:   {product.ldate}</h5>  
             
-                <h5 className="p-3 mb-2 bg-primary text-white">* product price:   {product.price}</h5>                    
+                <h5 className="p-3 mb-2 bg-primary text-white">* Product price:   {product.price}</h5>                    
                 <div className="btn-bar">
              
               
